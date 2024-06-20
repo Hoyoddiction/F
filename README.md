@@ -1,9 +1,12 @@
 # OOP Final Project Bank Management System
-Link to docs:
+
+  For the Final project I choose to make a bank management system that can Withdraw and Deposit
+  
+Link to Report:
 https://docs.google.com/document/d/1g3lLAcAk6vFKU8q0fJH099bQ7vCY1dnR7UmUEXOOncc/edit?usp=sharing
 
 
-Link to video:
+Link to video: https://drive.google.com/drive/folders/1DQYSbX4rRrxLrLKSYCRE3yEwkKj9EojW
 
 
 Link to Poster:
